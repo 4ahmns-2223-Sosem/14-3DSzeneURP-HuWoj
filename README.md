@@ -7,7 +7,7 @@
 
 ## Entwicklungsplattform:
 + Windows 10
-+ + Unity 2020.3.18f
++ Unity 2020.3.18f
 + Visual Studio 2019
 
 ## Einblicke ins Konzept und Game:
@@ -23,7 +23,7 @@
 + Methodendeklaration (Script: "SceneManangerScript"): SwitchScene Methode zum welcheln der Szenen
 + If/Else (Script: "LightSwitch"): If die Lampe aus ist, leuchtet sie nicht, else leuchtet sie gelb
 + Enum (Script: ""): Hab ich leider nicht mehr geschafft...
-+ For (Script: ""): Hab ich leider nicht mehr geschafft...  
++ For (Script: "PentilMultiplier"): Die Bleistifte am Schreibtisch vervielfachen sich und haben eine andere Positon 
 
 ## Lessons learned:
 - [x] mit git arbeiten
