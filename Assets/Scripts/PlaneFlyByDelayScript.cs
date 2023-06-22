@@ -16,4 +16,9 @@ public class PlaneFlyByDelayScript : MonoBehaviour
     {
         
     }
+
+    private void PlaneFlyBy()
+    {
+        
+    }
 }
